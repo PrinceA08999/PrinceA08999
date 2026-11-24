@@ -11,10 +11,10 @@ I'm an aspiring **AI & Machine Learning student** focused on building intelligen
 
 ### 🛠️ What I've Been Building & Studying
 
-* **Reinforcement Learning Implementations:** Implemented ~16 foundational RL algorithms to understand policy gradients, value iteration, and agent-environment dynamics from first principles.
-* **Quantum Computing Explorations:** Built 20+ quantum circuits and implemented core quantum algorithms, including the **Deutsch–Jozsa algorithm**, to study quantum speedup and superposition.
-* **Game Development (2D & 3D):** Built a 2D game from scratch alongside 3D Unity projects developed during my internship, focusing on physics loops, state management, and core gameplay mechanics.
-* **Startup & Product Validation:** Led early-stage market research and problem-solution validation during a summer entrepreneurship program.
+- **Reinforcement Learning Implementations:** Implemented ~16 foundational RL algorithms to understand policy gradients, value iteration, and agent-environment dynamics from first principles.
+- **Quantum Computing Explorations:** Built 20+ quantum circuits and implemented core quantum algorithms, including the **Deutsch–Jozsa algorithm**, to study quantum speedup and superposition.
+- **Game Development (2D & 3D):** Built a 2D game from scratch alongside 3D Unity projects developed during my internship, focusing on physics loops, state management, and core gameplay mechanics.
+- **Startup & Product Validation:** Led early-stage market research and problem-solution validation during a summer entrepreneurship program.
 
 > **Note on Game Repositories:** My 3D Unity internship projects and larger game builds are kept offline due to heavy binary/asset sizes, while this GitHub focuses primarily on my lightweight 2D work, AI/RL algorithms, and quantum computing code.
 
@@ -22,11 +22,11 @@ I'm an aspiring **AI & Machine Learning student** focused on building intelligen
 
 ### 💻 Core Technologies & Tools
 
-**Languages:** Python, C#, Java 
-**AI / RL:** NumPy, Keras, Gymnasium
-**Quantum:** Qiskit, Matplotlib
-**Game Dev:** Unity (3D/2D)
-**Tools:** Jupyter Notebooks, Miniconda, IDEs
+- **Languages:** Python, C#, Java 
+- **AI / RL:** NumPy, Keras, Gymnasium
+- **Quantum:** Qiskit, Matplotlib
+- **Game Dev:** Unity (3D/2D)
+- **Tools:** Jupyter Notebooks, Miniconda, IDEs
 
 ---
 
